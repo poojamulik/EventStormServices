@@ -1,20 +1,16 @@
 'use strict';
 
 var IndexModel = require('../models/index');
-var EventTypeModel = require('../models/eventType');
-var EventModel = require('../models/events');
 
 
 var fs = require('fs');
 var path = require('path');
-var eventFilePath = path.join("c:/Pooja/node/nno/models", 'event.json');
-var filePath = path.join("c:/Pooja/node/nno/models", 'eventType.json');
+var eventFilePath = path.join("./models", 'event.json');
+var filePath = path.join("./models", 'eventType.json');
 
 module.exports = function (router) {
 
     var model = new IndexModel();
-    var eventTypeModel = new EventTypeModel();
-    var eventModel = new EventModel();
 
     router.get('/', function (req, res) {
         
@@ -40,7 +36,18 @@ module.exports = function (router) {
         
     });*/
 
-    router.get('/events', function (req, res) {
+    router.get('/eventtype', function (req, res) {
+        fs.readFile(filePath, {encoding: 'utf-8'}, function(err,data){
+           if (!err){
+               var str = data;
+               res.json(JSON.parse(str));
+            }else{
+                console.log(err);
+            };
+        });
+    });
+
+    router.get('/event/travel/singapore', function (req, res) {
         fs.readFile(eventFilePath, {encoding: 'utf-8'}, function(err,data){
            if (!err){
                var str = data;
@@ -51,8 +58,30 @@ module.exports = function (router) {
         });
     });
 
-    router.get('/eventType', function (req, res) {
-        fs.readFile(filePath, {encoding: 'utf-8'}, function(err,data){
+    router.get('/event/fun/singapore', function (req, res) {
+        fs.readFile(eventFilePath, {encoding: 'utf-8'}, function(err,data){
+           if (!err){
+               var str = data;
+               res.json(JSON.parse(str));
+            }else{
+                console.log(err);
+            };
+        });
+    });
+
+    router.get('/event/travel/india', function (req, res) {
+        fs.readFile(eventFilePath, {encoding: 'utf-8'}, function(err,data){
+           if (!err){
+               var str = data;
+               res.json(JSON.parse(str));
+            }else{
+                console.log(err);
+            };
+        });
+    });
+
+    router.get('/event/fun/india', function (req, res) {
+        fs.readFile(eventFilePath, {encoding: 'utf-8'}, function(err,data){
            if (!err){
                var str = data;
                res.json(JSON.parse(str));

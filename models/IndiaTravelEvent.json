@@ -7,8 +7,8 @@
             "cost": "INR 32000",
             "eventDPPic": "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436813192/Resized/rsz_taj_mahal.png",
             "eventAdditionalPics": [
-                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436803234/Agra/Agra_City.jpg",
-                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436803234/Agra/amarvilas.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436814429/sized/rsz_agra_city.png",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436814429/sized/rsz_amarvilas.png",
                 "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436803234/Agra/Hotel.jpg",
                 "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436803234/Agra/Temple.jpg"
             ],
@@ -19,12 +19,12 @@
             "eventDate": "28-Aug-2016",
             "shortDetails": "7 Days 6 Night trip",
             "cost": "INR 56000",
-            "eventDPPic": "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436813483/Resized/rsz_11.png",
+            "eventDPPic": "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436814428/sized/rsz_1_1.png",
             "eventAdditionalPics": [
                 "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436813192/Resized/rsz_kerala.png",
-                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436804128/Kerala/2.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436814428/sized/rsz_12.png",
                 "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436804130/Kerala/3.jpg",
-                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436804129/Kerala/5.jpg"
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436814428/sized/rsz_5.png"
             ],
             "eventLongDetails": "Kerala, a state on India's tropical Malabar Coast, has nearly 600km of Arabian Sea shoreline. It's known for its palm-lined beaches and its backwaters, a network of canals popular for cruises. Its many upscale seaside resorts include specialists in Ayurvedic treatments. Inland are the Western Ghats, a mountain range whose slopes support tea, coffee and spice plantations as well as abundant native wildlife"
         },
@@ -32,14 +32,14 @@
             "name": "Mumbai-Delhi Tourism",
             "eventDate": "26-Aug-2016",
             "shortDetails": "4 Days 3 Night trip",
-            "cost": "INR 42000",
+            "cost": "FREE",
             "eventDPPic": "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436813192/Resized/rsz_1rsz_1.png",
             "eventAdditionalPics": [
                 "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436804548/Mumbai-Delhi/7.jpg",
-                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436804547/Mumbai-Delhi/2.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436814428/sized/rsz_112.png",
                 "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436804548/Mumbai-Delhi/3.jpg",
-                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436804548/Mumbai-Delhi/4.jpg",
-                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436804548/Mumbai-Delhi/5.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436814427/sized/rsz_4.png",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436814428/sized/rsz_15.png",
                 "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436804549/Mumbai-Delhi/6.jpg"
             ],
             "eventLongDetails": "Mumbai, formerly called Bombay, is a sprawling, densely populated city on India’s west coast. On the Mumbai Harbour waterfront stands the iconic Gateway of India stone arch, built by the British Raj in 1924. Offshore, nearby Elephanta Island holds ancient cave temples dedicated to Shiva. The city is also famous as the heart of the Hindi-language Bollywood film industry. Delhi, officially the National Capital Territory of Delhi, is the Capital territory of India. Delhi's culture has been influenced by its lengthy history and historic association as the capital of India. This is exemplified by many significant monuments in the city"

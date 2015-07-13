@@ -1,0 +1,49 @@
+{
+    "event": [
+        {
+            "name": "Agra Holiday",
+            "eventDate": "25-Jul-2016",
+            "shortDetails": "3 Days 2 Night trip",
+            "cost": "INR 32000",
+            "eventDPPic": "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436803234/Agra/Taj_Mahal.jpg",
+            "eventAdditionalPics": [
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436803234/Agra/Agra_City.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436803234/Agra/amarvilas.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436803234/Agra/Hotel.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436803234/Agra/Temple.jpg"
+            ],
+            "eventLongDetails": "Agra, a city in northern India’s Uttar Pradesh state, is home to the iconic Taj Mahal, a mausoleum built for the Mughal ruler Shah Jahan’s wife, Mumtaz Mahal, who died in childbirth in 1631. Set behind a reflecting pool inside a courtyard defined by 4 minarets, the imposing main building features a massive dome and intricately carved white marble inlaid with precious stones."
+        },
+        {
+            "name": "Kerala Trip",
+            "eventDate": "28-Aug-2016",
+            "shortDetails": "7 Days 6 Night trip",
+            "cost": "INR 56000",
+            "eventDPPic": "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436804128/Kerala/4.jpg",
+            "eventAdditionalPics": [
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436804131/Kerala/kerala.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436804131/Kerala/1.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436804128/Kerala/2.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436804130/Kerala/3.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436804129/Kerala/5.jpg"
+            ],
+            "eventLongDetails": "Kerala, a state on India's tropical Malabar Coast, has nearly 600km of Arabian Sea shoreline. It's known for its palm-lined beaches and its backwaters, a network of canals popular for cruises. Its many upscale seaside resorts include specialists in Ayurvedic treatments. Inland are the Western Ghats, a mountain range whose slopes support tea, coffee and spice plantations as well as abundant native wildlife"
+        },
+        {
+            "name": "Mumbai-Delhi Tourism",
+            "eventDate": "26-Aug-2016",
+            "shortDetails": "4 Days 3 Night trip",
+            "cost": "INR 42000",
+            "eventDPPic": "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436804691/Mumbai-Delhi/1.jpg",
+            "eventAdditionalPics": [
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436804548/Mumbai-Delhi/7.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436804547/Mumbai-Delhi/2.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436804548/Mumbai-Delhi/3.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436804548/Mumbai-Delhi/4.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436804548/Mumbai-Delhi/5.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436804549/Mumbai-Delhi/6.jpg"
+            ],
+            "eventLongDetails": "Mumbai, formerly called Bombay, is a sprawling, densely populated city on India’s west coast. On the Mumbai Harbour waterfront stands the iconic Gateway of India stone arch, built by the British Raj in 1924. Offshore, nearby Elephanta Island holds ancient cave temples dedicated to Shiva. The city is also famous as the heart of the Hindi-language Bollywood film industry. Delhi, officially the National Capital Territory of Delhi, is the Capital territory of India. Delhi's culture has been influenced by its lengthy history and historic association as the capital of India. This is exemplified by many significant monuments in the city"
+        }
+    ]
+}

@@ -1,0 +1,49 @@
+{
+    "event": [
+        {
+            "name": "Trip to Singapore",
+            "eventDate": "20-Jul-2016",
+            "shortDetails": "7 Days 6 Night trip to SG",
+            "cost": "SGD 320$",
+            "eventDPPic": "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436690471/singaporesmall_jkanno.png",
+            "eventAdditionalPics": [
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436768040/singapore_rqdh0j.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436767999/singapore4_sozhjb.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436767996/singapore3_hx8apl.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436767992/singapore2_z8kwo2.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436767990/orchard5_zm1rmh.jpg"
+            ],
+            "eventLongDetails": "Singapore, an island city-state off southern Malaysia, is a global financial centre with a tropical climate and multicultural population. In circa-1820 Chinatown stands the red-and-gold Buddha’s Tooth Relic Temple, Little India offers colorful souvenirs and Arab Street is lined with fabric shops"
+        },
+        {
+            "name": "Trip to Singapore",
+            "eventDate": "2-Aug-2016",
+            "shortDetails": "7 Days 6 Night trip to SG",
+            "cost": "SGD 320$",
+            "eventDPPic": "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436690471/singaporesmall_jkanno.png",
+            "eventAdditionalPics": [
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436768040/singapore_rqdh0j.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436767999/singapore4_sozhjb.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436767996/singapore3_hx8apl.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436767992/singapore2_z8kwo2.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436767990/orchard5_zm1rmh.jpg"
+            ],
+            "eventLongDetails": "Singapore, an island city-state off southern Malaysia, is a global financial centre with a tropical climate and multicultural population. In circa-1820 Chinatown stands the red-and-gold Buddha’s Tooth Relic Temple, Little India offers colorful souvenirs and Arab Street is lined with fabric shops"
+        },
+        {
+            "name": "Trip to Singapore",
+            "eventDate": "20-Aug-2016",
+            "shortDetails": "7 Days 6 Night trip to SG",
+            "cost": "FREE",
+            "eventDPPic": "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436690471/singaporesmall_jkanno.png",
+            "eventAdditionalPics": [
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436768040/singapore_rqdh0j.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436767999/singapore4_sozhjb.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436767996/singapore3_hx8apl.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436767992/singapore2_z8kwo2.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436767990/orchard5_zm1rmh.jpg"
+            ],
+            "eventLongDetails": "Singapore, an island city-state off southern Malaysia, is a global financial centre with a tropical climate and multicultural population. In circa-1820 Chinatown stands the red-and-gold Buddha’s Tooth Relic Temple, Little India offers colorful souvenirs and Arab Street is lined with fabric shops"
+        }
+    ]
+}

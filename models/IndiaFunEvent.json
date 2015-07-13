@@ -1,0 +1,31 @@
+{
+    "event": [
+        {
+            "name": "Imagica Adlabs",
+            "eventDate": "30-Jul-2016",
+            "shortDetails": "2500Rs for Admissions to Imagica Adlabs",
+            "cost": "INR 2500",
+            "eventDPPic": "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436805440/Imagica/3.jpg",
+            "eventAdditionalPics": [
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436805440/Imagica/1.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436805440/Imagica/2.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436805440/Imagica/4.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436805439/Imagica/5.jpg"
+            ],
+            "eventLongDetails": "Adlabs Imagica is an amusement park located near the city of Khopoli on the Mumbai-Pune Expressway. The park is owned and operated by Adlabs Entertainment Limited."
+        },
+        {
+            "name": "Zumba At Delhi Academy",
+            "eventDate": "28-Aug-2016",
+            "shortDetails": "7 Days 6 Night trip",
+            "cost": "INR 56000",
+            "eventDPPic": "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436805921/Zumba/2.jpg",
+            "eventAdditionalPics": [
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436805921/Zumba/1.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436805922/Zumba/3.jpg",
+                "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436805921/Zumba/4.jpg"
+            ],
+            "eventLongDetails": "Zumba is coming up as a fun filled form of entertainment as well as exercise. Most students choose Zumba classes as a means to fitness in their daily routines. We have an official page on Zumba.com as a certified Zumba instructor and a ZIN member. Delhi Academy has trained instructors to teach Zumba and classes are held throughout the week"
+        }
+    ]
+}

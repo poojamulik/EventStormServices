@@ -3,25 +3,25 @@
         {
             "name": "Travel",
             "details": "Click here and pack your bags",
-            "eventImg": "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436685595/travelsmall_bh9lvk.png",
+            "eventImg": "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436806934/Eventtype/rsz_travel.jpg",
             "count": "15"
         },
         {
             "name": "Concert",
             "details": "Check out latest concert happening around you",
-            "eventImg": "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436685595/travelsmall_bh9lvk.png",
+            "eventImg": "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436806934/Eventtype/rsz_concert.jpg",
             "count": "20"
         },
         {
             "name": "Sports",
             "details": "One stop shop for all sport activities",
-            "eventImg": "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436685595/travelsmall_bh9lvk.png",
+            "eventImg": "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436806934/Eventtype/rsz_sport.png",
             "count": "12"
         },
         {
             "name": "Adventures",
             "details": "Adventures you must join for",
-            "eventImg": "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436685595/travelsmall_bh9lvk.png",
+            "eventImg": "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436806934/Eventtype/rsz_1adv.jpg",
             "count": "18"
         }
     ]

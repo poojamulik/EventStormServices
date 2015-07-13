@@ -23,6 +23,36 @@
             "details": "Adventures you must join for",
             "eventImg": "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436806934/Eventtype/rsz_1adv.jpg",
             "count": "18"
+        },
+        {
+            "name": "Fashion",
+            "details": "Adventures you must join for",
+            "eventImg": "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436806934/Eventtype/rsz_1adv.jpg",
+            "count": "18"
+        },
+        {
+            "name": "Electronics",
+            "details": "Adventures you must join for",
+            "eventImg": "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436806934/Eventtype/rsz_1adv.jpg",
+            "count": "18"
+        },
+        {
+            "name": "Food",
+            "details": "Adventures you must join for",
+            "eventImg": "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436806934/Eventtype/rsz_1adv.jpg",
+            "count": "18"
+        },
+        {
+            "name": "Health & Beauty",
+            "details": "Adventures you must join for",
+            "eventImg": "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436806934/Eventtype/rsz_1adv.jpg",
+            "count": "18"
+        },
+        {
+            "name": "Entertainment",
+            "details": "Adventures you must join for",
+            "eventImg": "http://res.cloudinary.com/djh5qwbxp/image/upload/v1436806934/Eventtype/rsz_1adv.jpg",
+            "count": "18"
         }
     ]
 }
